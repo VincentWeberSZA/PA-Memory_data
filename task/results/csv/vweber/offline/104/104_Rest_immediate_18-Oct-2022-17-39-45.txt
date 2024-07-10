@@ -1,0 +1,33 @@
+id	 activity	 retrievalStrategy	 trial	 encodingStrategy	 retentionInterval	 textItemSw	 textItemDe	 response	 correct	 rt
+103	 PA	 Deep	 1	 Deep	 Immediate	 dharura	 Notfall	 	 0	 17.255332
+103	 PA	 Deep	 2	 Shallow	 Immediate	 mafanikio	 Wohlstand	 	 0	 6.942362
+103	 PA	 Deep	 3	 Shallow	 Immediate	 nadharia	 Theorie	 	 0	 17.423625
+103	 PA	 Deep	 4	 Deep	 Immediate	 mwanafunzi	 Schüler	 mwafaninzo	 0	 13.901322
+103	 PA	 Deep	 5	 Deep	 Immediate	 yaliyomo	 Inhalt	 yaliyomo	 1	 4.052579
+103	 PA	 Deep	 6	 Deep	 Immediate	 ufungaji	 Verpackung	 ufungaji	 1	 13.367624
+103	 PA	 Deep	 7	 Shallow	 Immediate	 upelelezi	 Spionage	 ulelepezi	 0	 8.075738
+103	 PA	 Deep	 8	 Deep	 Immediate	 udhanifu	 Vermutung	 	 0	 8.590245
+103	 PA	 Deep	 9	 Deep	 Immediate	 matarajio	 Hoffnung	 matarajio	 1	 15.896672
+103	 PA	 Deep	 10	 Shallow	 Immediate	 foleni	 Schlange	 foleni	 1	 3.443452
+103	 PA	 Deep	 11	 Deep	 Immediate	 kichekesho	 Vergnügen	 ushidini	 0	 10.355333
+103	 PA	 Deep	 12	 Shallow	 Immediate	 mshtuko	 Schock	 mshtoku	 0	 7.477293
+103	 PA	 Deep	 13	 Shallow	 Immediate	 kijalizo	 Ergänzung	 	 0	 11.618233
+103	 PA	 Deep	 14	 Shallow	 Immediate	 kuvumiliana	 Toleranz	 	 0	 6.403132
+103	 PA	 Deep	 15	 Deep	 Immediate	 wanaojaribu	 Tester	 wanaojaribu	 1	 19.078725
+103	 PA	 Deep	 16	 Shallow	 Immediate	 dirisha	 Fenster	 dirashi	 0	 8.007585
+103	 PA	 Shallow	 1	 Shallow	 Immediate	 foleni	 Schlange	 foleni	 1	 3.087357
+103	 PA	 Shallow	 2	 Shallow	 Immediate	 mafanikio	 Wohlstand	 mafanikio	 1	 4.144683
+103	 PA	 Shallow	 3	 Deep	 Immediate	 wanaojaribu	 Tester	 wanaojaribu	 1	 8.954078
+103	 PA	 Shallow	 4	 Deep	 Immediate	 ufungaji	 Verpackung	 ufungaji	 1	 4.068928
+103	 PA	 Shallow	 5	 Deep	 Immediate	 kichekesho	 Vergnügen	 kichekesho	 1	 5.649062
+103	 PA	 Shallow	 6	 Deep	 Immediate	 udhanifu	 Vermutung	 udhanifu	 1	 8.589326
+103	 PA	 Shallow	 7	 Shallow	 Immediate	 nadharia	 Theorie	 nadharia	 1	 6.434377
+103	 PA	 Shallow	 8	 Shallow	 Immediate	 upelelezi	 Spionage	 upelelezi	 1	 3.434064
+103	 PA	 Shallow	 9	 Deep	 Immediate	 mwanafunzi	 Schüler	 mwanafunzi	 1	 3.073863
+103	 PA	 Shallow	 10	 Shallow	 Immediate	 kuvumiliana	 Toleranz	 kuvumiliana	 1	 4.315284
+103	 PA	 Shallow	 11	 Shallow	 Immediate	 dirisha	 Fenster	 dirisha	 1	 2.703411
+103	 PA	 Shallow	 12	 Shallow	 Immediate	 kijalizo	 Ergänzung	 kijalizo	 1	 10.579935
+103	 PA	 Shallow	 13	 Shallow	 Immediate	 mshtuko	 Schock	 mshtuko	 1	 3.927535
+103	 PA	 Shallow	 14	 Deep	 Immediate	 matarajio	 Hoffnung	 matarajio	 1	 4.360429
+103	 PA	 Shallow	 15	 Deep	 Immediate	 yaliyomo	 Inhalt	 yaliyomo	 1	 2.529758
+103	 PA	 Shallow	 16	 Deep	 Immediate	 dharura	 Notfall	 dharura	 1	 4.013067

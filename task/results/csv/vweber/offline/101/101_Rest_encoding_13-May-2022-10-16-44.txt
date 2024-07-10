@@ -1,0 +1,113 @@
+id	 activity	 block	 run	 trial	 encodingStrategy	 retentionInterval	 textItemSw	 textItemDe	 response	 correct	 rt
+101	 Rest	 1	 1	 1	 Deep	 Immediate	 ugomaji	 Aufstand	 	 0	 3.153213
+101	 Rest	 1	 1	 2	 Deep	 Delayed	 mshakiki	 Fleisch	  	 0	 5.396714
+101	 Rest	 1	 1	 3	 Shallow	 Delayed	 kukutana	 Begegnung	 enjini	 0	 7.394976
+101	 Rest	 1	 1	 4	 Shallow	 Immediate	 kuchelewa	 Verzögerung	 rasilmali	 0	 5.770907
+101	 Rest	 1	 1	 5	 Shallow	 Delayed	 idhini	 Genehmigung	 idhini	 1	 6.876719
+101	 Rest	 1	 1	 6	 Shallow	 Immediate	 utamaduni	 Kultur	 shetani	 0	 5.727436
+101	 Rest	 1	 1	 7	 Deep	 Delayed	 uadilifu	 Integrität	 	 0	 3.324342
+101	 Rest	 1	 1	 8	 Deep	 Immediate	 mtihani	 Prüfung	 	 0	 3.049196
+101	 Rest	 1	 2	 1	 Shallow	 Immediate	 utamaduni	 Kultur	 utamaduni	 1	 7.893928
+101	 Rest	 1	 2	 2	 Shallow	 Delayed	 idhini	 Genehmigung	 idhini	 1	 4.179051
+101	 Rest	 1	 2	 3	 Shallow	 Delayed	 kukutana	 Begegnung	 kukutana	 1	 4.438168
+101	 Rest	 1	 2	 4	 Deep	 Delayed	 uadilifu	 Integrität	 mdilifu	 0	 9.202196
+101	 Rest	 1	 2	 5	 Deep	 Delayed	 mshakiki	 Fleisch	 	 0	 1.658933
+101	 Rest	 1	 2	 6	 Deep	 Immediate	 mtihani	 Prüfung	 	 0	 2.549393
+101	 Rest	 1	 2	 7	 Deep	 Immediate	 ugomaji	 Aufstand	 	 0	 2.424135
+101	 Rest	 1	 2	 8	 Shallow	 Immediate	 kuchelewa	 Verzögerung	 kuchelewa	 1	 3.115997
+101	 Rest	 1	 3	 1	 Shallow	 Immediate	 utamaduni	 Kultur	 utamaduni	 1	 8.950651
+101	 Rest	 1	 3	 2	 Shallow	 Delayed	 kukutana	 Begegnung	 kukutana	 1	 4.699963
+101	 Rest	 1	 3	 3	 Deep	 Immediate	 ugomaji	 Aufstand	 utomaji	 0	 13.750422
+101	 Rest	 1	 3	 4	 Deep	 Delayed	 mshakiki	 Fleisch	 mshakiki	 1	 13.148438
+101	 Rest	 1	 3	 5	 Shallow	 Immediate	 kuchelewa	 Verzögerung	 kuchelewa	 1	 3.675479
+101	 Rest	 1	 3	 6	 Deep	 Immediate	 mtihani	 Prüfung	 mtihani	 1	 4.639620
+101	 Rest	 1	 3	 7	 Deep	 Delayed	 uadilifu	 Integrität	 	 0	 4.431058
+101	 Rest	 1	 3	 8	 Shallow	 Delayed	 idhini	 Genehmigung	 idhini	 1	 7.048763
+101	 Rest	 1	 4	 1	 Shallow	 Delayed	 idhini	 Genehmigung	 idhini	 1	 2.634120
+101	 Rest	 1	 4	 2	 Deep	 Delayed	 uadilifu	 Integrität	 uadilifu	 1	 6.803943
+101	 Rest	 1	 4	 3	 Deep	 Immediate	 mtihani	 Prüfung	 mtihani	 1	 4.747747
+101	 Rest	 1	 4	 4	 Shallow	 Immediate	 kuchelewa	 Verzögerung	 kuchelewa	 1	 2.500496
+101	 Rest	 1	 4	 5	 Deep	 Immediate	 ugomaji	 Aufstand	 ugomaji	 1	 7.462553
+101	 Rest	 1	 4	 6	 Shallow	 Delayed	 kukutana	 Begegnung	 kukutana	 1	 2.528299
+101	 Rest	 1	 4	 7	 Deep	 Delayed	 mshakiki	 Fleisch	 mshakiki	 1	 5.704517
+101	 Rest	 1	 4	 8	 Shallow	 Immediate	 utamaduni	 Kultur	 utamaduni	 1	 15.811417
+101	 Rest	 2	 1	 1	 Shallow	 Immediate	 diwani	 Kanzler	 chipukizi	 0	 5.160402
+101	 Rest	 2	 1	 2	 Deep	 Delayed	 ukarabati	 Erneuerung	 	 0	 1.733292
+101	 Rest	 2	 1	 3	 Deep	 Immediate	 mshambulizi	 Angreifer	 	 0	 1.824793
+101	 Rest	 2	 1	 4	 Deep	 Immediate	 mwimbaji	 Sänger	 	 0	 1.699745
+101	 Rest	 2	 1	 5	 Shallow	 Delayed	 kubadilika	 Flexibilität	 hesabu	 0	 4.107192
+101	 Rest	 2	 1	 6	 Shallow	 Immediate	 uhasibu	 Abrechnung	 uhasibu	 1	 2.548170
+101	 Rest	 2	 1	 7	 Shallow	 Delayed	 angahewa	 Atmosphäre	 fedheha	 0	 4.484888
+101	 Rest	 2	 1	 8	 Deep	 Delayed	 ugeuzaji	 Wechsel	 k	 0	 2.224585
+101	 Rest	 2	 2	 1	 Shallow	 Immediate	 uhasibu	 Abrechnung	 uhasibu	 1	 11.600943
+101	 Rest	 2	 2	 2	 Deep	 Delayed	 ukarabati	 Erneuerung	 rabati	 0	 6.238036
+101	 Rest	 2	 2	 3	 Shallow	 Delayed	 kubadilika	 Flexibilität	 kubadilika	 1	 4.350645
+101	 Rest	 2	 2	 4	 Deep	 Immediate	 mshambulizi	 Angreifer	 	 0	 2.425518
+101	 Rest	 2	 2	 5	 Shallow	 Immediate	 diwani	 Kanzler	 diwani	 1	 2.238840
+101	 Rest	 2	 2	 6	 Shallow	 Delayed	 angahewa	 Atmosphäre	 angahewa	 1	 3.506852
+101	 Rest	 2	 2	 7	 Deep	 Delayed	 ugeuzaji	 Wechsel	 	 0	 9.152008
+101	 Rest	 2	 2	 8	 Deep	 Immediate	 mwimbaji	 Sänger	 	 0	 1.649890
+101	 Rest	 2	 3	 1	 Deep	 Delayed	 ukarabati	 Erneuerung	 ukarabati	 1	 6.438943
+101	 Rest	 2	 3	 2	 Shallow	 Immediate	 uhasibu	 Abrechnung	 uhasibu	 1	 4.762896
+101	 Rest	 2	 3	 3	 Shallow	 Delayed	 kubadilika	 Flexibilität	 kubadilika	 1	 3.429171
+101	 Rest	 2	 3	 4	 Deep	 Immediate	 mshambulizi	 Angreifer	 mshabulizi	 0	 10.909064
+101	 Rest	 2	 3	 5	 Deep	 Delayed	 ugeuzaji	 Wechsel	 mhinti	 0	 9.601574
+101	 Rest	 2	 3	 6	 Shallow	 Delayed	 angahewa	 Atmosphäre	 angahewa	 1	 5.036809
+101	 Rest	 2	 3	 7	 Deep	 Immediate	 mwimbaji	 Sänger	 mwimbaji	 1	 8.119529
+101	 Rest	 2	 3	 8	 Shallow	 Immediate	 diwani	 Kanzler	 diwani	 1	 1.535055
+101	 Rest	 2	 4	 1	 Shallow	 Immediate	 diwani	 Kanzler	 diwani	 1	 2.461679
+101	 Rest	 2	 4	 2	 Shallow	 Delayed	 kubadilika	 Flexibilität	 kubadilika	 1	 3.026997
+101	 Rest	 2	 4	 3	 Shallow	 Delayed	 angahewa	 Atmosphäre	 angahewa	 1	 1.976326
+101	 Rest	 2	 4	 4	 Shallow	 Immediate	 uhasibu	 Abrechnung	 uhasibu	 1	 2.696000
+101	 Rest	 2	 4	 5	 Deep	 Delayed	 ugeuzaji	 Wechsel	 ugeuzaji	 1	 10.600653
+101	 Rest	 2	 4	 6	 Deep	 Delayed	 ukarabati	 Erneuerung	 ukarabati	 1	 8.003480
+101	 Rest	 2	 4	 7	 Deep	 Immediate	 mshambulizi	 Angreifer	 mshambulizi	 1	 5.713159
+101	 Rest	 2	 4	 8	 Deep	 Immediate	 mwimbaji	 Sänger	 mwimbaji	 1	 10.144420
+101	 Rest	 3	 1	 1	 Deep	 Immediate	 ubunifu	 Kreativität	 	 0	 1.918610
+101	 Rest	 3	 1	 2	 Shallow	 Delayed	 mdanganyifu	 Betrüger	 badiliko	 0	 3.284869
+101	 Rest	 3	 1	 3	 Shallow	 Immediate	 kuhatarisha	 Gefährdung	 kufunga	 0	 3.963810
+101	 Rest	 3	 1	 4	 Deep	 Delayed	 urekebisho	 Orientierung	 	 0	 2.823789
+101	 Rest	 3	 1	 5	 Deep	 Delayed	 heshima	 Respekt	 	 0	 1.382998
+101	 Rest	 3	 1	 6	 Deep	 Immediate	 unaweza	 Können	 	 0	 1.075459
+101	 Rest	 3	 1	 7	 Shallow	 Delayed	 kinyongo	 Stimmung	 husiano	 0	 3.582265
+101	 Rest	 3	 1	 8	 Shallow	 Immediate	 kudhibiti	 Kontrolle	 mwanauchumi	 0	 4.211896
+101	 Rest	 3	 2	 1	 Deep	 Immediate	 ubunifu	 Kreativität	 ubunifu	 1	 5.094950
+101	 Rest	 3	 2	 2	 Deep	 Immediate	 unaweza	 Können	 unaweza	 1	 4.497417
+101	 Rest	 3	 2	 3	 Shallow	 Immediate	 kuhatarisha	 Gefährdung	 kuhatarisha	 1	 3.779863
+101	 Rest	 3	 2	 4	 Shallow	 Immediate	 kudhibiti	 Kontrolle	 kudhibiti	 1	 6.212733
+101	 Rest	 3	 2	 5	 Deep	 Delayed	 heshima	 Respekt	 mshima	 0	 9.052255
+101	 Rest	 3	 2	 6	 Deep	 Delayed	 urekebisho	 Orientierung	 kebyo	 0	 13.731814
+101	 Rest	 3	 2	 7	 Shallow	 Delayed	 mdanganyifu	 Betrüger	 mdanganyifu	 1	 11.913404
+101	 Rest	 3	 2	 8	 Shallow	 Delayed	 kinyongo	 Stimmung	 kinyongo	 1	 3.359553
+101	 Rest	 3	 3	 1	 Shallow	 Delayed	 mdanganyifu	 Betrüger	 mdanganyifu	 1	 11.027399
+101	 Rest	 3	 3	 2	 Deep	 Delayed	 heshima	 Respekt	 heshima	 1	 7.395772
+101	 Rest	 3	 3	 3	 Deep	 Immediate	 unaweza	 Können	 unaweza	 1	 3.648680
+101	 Rest	 3	 3	 4	 Deep	 Immediate	 ubunifu	 Kreativität	 ubunifu	 1	 3.631796
+101	 Rest	 3	 3	 5	 Shallow	 Immediate	 kuhatarisha	 Gefährdung	 kuhatarisha	 1	 4.434195
+101	 Rest	 3	 3	 6	 Deep	 Delayed	 urekebisho	 Orientierung	 urekebisho	 1	 10.067995
+101	 Rest	 3	 3	 7	 Shallow	 Immediate	 kudhibiti	 Kontrolle	 kudhibiti	 1	 5.577062
+101	 Rest	 3	 3	 8	 Shallow	 Delayed	 kinyongo	 Stimmung	 kinyongo	 1	 2.670291
+101	 Rest	 4	 1	 1	 Shallow	 Immediate	 kiwiliwili	 Körper	 uchokozi	 0	 2.564901
+101	 Rest	 4	 1	 2	 Shallow	 Delayed	 maendeleo	 Entwicklung	 maendeleo	 1	 3.682201
+101	 Rest	 4	 1	 3	 Deep	 Delayed	 kiwango	 Niveau	 	 0	 2.224596
+101	 Rest	 4	 1	 4	 Deep	 Delayed	 karatasi	 Papier	 	 0	 1.284752
+101	 Rest	 4	 1	 5	 Deep	 Immediate	 maongozi	 System	 	 0	 3.498252
+101	 Rest	 4	 1	 6	 Shallow	 Delayed	 mashtaka	 Vorwurf	 usahihi	 0	 4.073488
+101	 Rest	 4	 1	 7	 Shallow	 Immediate	 kilindo	 Übersicht	 kilindo	 1	 6.674361
+101	 Rest	 4	 1	 8	 Deep	 Immediate	 banguko	 Lawine	  	 0	 5.857279
+101	 Rest	 4	 2	 1	 Deep	 Delayed	 karatasi	 Papier	 karatasi	 1	 4.368565
+101	 Rest	 4	 2	 2	 Deep	 Delayed	 kiwango	 Niveau	 	 0	 4.081280
+101	 Rest	 4	 2	 3	 Deep	 Immediate	 maongozi	 System	 mangoasi	 0	 5.696304
+101	 Rest	 4	 2	 4	 Shallow	 Delayed	 maendeleo	 Entwicklung	 maendeleo	 1	 4.570313
+101	 Rest	 4	 2	 5	 Deep	 Immediate	 banguko	 Lawine	 banguko	 1	 8.669110
+101	 Rest	 4	 2	 6	 Shallow	 Delayed	 mashtaka	 Vorwurf	 mashtaka	 1	 3.386890
+101	 Rest	 4	 2	 7	 Shallow	 Immediate	 kiwiliwili	 Körper	 kiwiliwili	 1	 7.506927
+101	 Rest	 4	 2	 8	 Shallow	 Immediate	 kilindo	 Übersicht	 kilindo	 1	 7.574311
+101	 Rest	 4	 3	 1	 Shallow	 Immediate	 kilindo	 Übersicht	 kilindo	 1	 1.958599
+101	 Rest	 4	 3	 2	 Deep	 Delayed	 kiwango	 Niveau	 kiwango	 1	 3.997833
+101	 Rest	 4	 3	 3	 Deep	 Immediate	 banguko	 Lawine	 banguko	 1	 5.963982
+101	 Rest	 4	 3	 4	 Shallow	 Delayed	 mashtaka	 Vorwurf	 mashtaka	 1	 2.523354
+101	 Rest	 4	 3	 5	 Shallow	 Immediate	 kiwiliwili	 Körper	 kiwiliwili	 1	 2.631049
+101	 Rest	 4	 3	 6	 Deep	 Delayed	 karatasi	 Papier	 karatasi	 1	 5.022299
+101	 Rest	 4	 3	 7	 Deep	 Immediate	 maongozi	 System	 maongazi	 0	 11.883512
+101	 Rest	 4	 3	 8	 Shallow	 Delayed	 maendeleo	 Entwicklung	 maendeleo	 1	 4.424065

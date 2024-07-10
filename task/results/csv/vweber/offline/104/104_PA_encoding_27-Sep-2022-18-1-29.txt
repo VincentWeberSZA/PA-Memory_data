@@ -1,0 +1,209 @@
+id	 activity	 block	 run	 trial	 encodingStrategy	 retentionInterval	 textItemSw	 textItemDe	 response	 correct	 rt
+104	 PA	 1	 1	 1	 Deep	 Immediate	 mshambulizi	 Angreifer	 	 0	 7.634369
+104	 PA	 1	 1	 2	 Deep	 Immediate	 mwimbaji	 Sänger	 	 0	 5.600598
+104	 PA	 1	 1	 3	 Deep	 Delayed	 ugeuzaji	 Wechsel	 	 0	 5.977762
+104	 PA	 1	 1	 4	 Shallow	 Delayed	 kubadilika	 Flexibilität	 mmasihiya	 0	 8.678201
+104	 PA	 1	 1	 5	 Deep	 Delayed	 ukarabati	 Erneuerung	 	 0	 1.806947
+104	 PA	 1	 1	 6	 Shallow	 Immediate	 diwani	 Kanzler	 chipukizi	 0	 9.750293
+104	 PA	 1	 1	 7	 Shallow	 Immediate	 uhasibu	 Abrechnung	 mgusano	 0	 13.412262
+104	 PA	 1	 1	 8	 Shallow	 Delayed	 angahewa	 Atmosphäre	 usikilivu	 0	 12.795661
+104	 PA	 1	 2	 1	 Shallow	 Immediate	 diwani	 Kanzler	 diwani	 1	 2.668921
+104	 PA	 1	 2	 2	 Deep	 Immediate	 mshambulizi	 Angreifer	 	 0	 4.204523
+104	 PA	 1	 2	 3	 Deep	 Delayed	 ugeuzaji	 Wechsel	 	 0	 6.363049
+104	 PA	 1	 2	 4	 Shallow	 Delayed	 angahewa	 Atmosphäre	 angahewa	 1	 2.122603
+104	 PA	 1	 2	 5	 Shallow	 Delayed	 kubadilika	 Flexibilität	 mshindwa	 0	 7.176729
+104	 PA	 1	 2	 6	 Deep	 Delayed	 ukarabati	 Erneuerung	 	 0	 3.538290
+104	 PA	 1	 2	 7	 Shallow	 Immediate	 uhasibu	 Abrechnung	 uhasibu	 1	 4.034822
+104	 PA	 1	 2	 8	 Deep	 Immediate	 mwimbaji	 Sänger	 	 0	 7.515963
+104	 PA	 1	 3	 1	 Shallow	 Delayed	 kubadilika	 Flexibilität	 kubadilika	 1	 6.532606
+104	 PA	 1	 3	 2	 Deep	 Immediate	 mwimbaji	 Sänger	 miwbawi	 0	 11.018148
+104	 PA	 1	 3	 3	 Deep	 Delayed	 ugeuzaji	 Wechsel	 uagha	 0	 5.082560
+104	 PA	 1	 3	 4	 Shallow	 Immediate	 uhasibu	 Abrechnung	 uhasibu	 1	 3.419440
+104	 PA	 1	 3	 5	 Deep	 Immediate	 mshambulizi	 Angreifer	 	 0	 2.408761
+104	 PA	 1	 3	 6	 Shallow	 Delayed	 angahewa	 Atmosphäre	 angahewa	 1	 5.049773
+104	 PA	 1	 3	 7	 Shallow	 Immediate	 diwani	 Kanzler	 diwani	 1	 2.429452
+104	 PA	 1	 3	 8	 Deep	 Delayed	 ukarabati	 Erneuerung	 	 0	 2.054314
+104	 PA	 1	 4	 1	 Shallow	 Delayed	 angahewa	 Atmosphäre	 fedheha	 0	 2.247203
+104	 PA	 1	 4	 2	 Shallow	 Delayed	 kubadilika	 Flexibilität	 kubadilika	 1	 5.972159
+104	 PA	 1	 4	 3	 Deep	 Immediate	 mwimbaji	 Sänger	 mwimbji	 0	 18.452129
+104	 PA	 1	 4	 4	 Deep	 Delayed	 ukarabati	 Erneuerung	 msha	 0	 11.661735
+104	 PA	 1	 4	 5	 Shallow	 Immediate	 uhasibu	 Abrechnung	 uhasibu	 1	 4.128995
+104	 PA	 1	 4	 6	 Shallow	 Immediate	 diwani	 Kanzler	 diwani	 1	 2.646682
+104	 PA	 1	 4	 7	 Deep	 Delayed	 ugeuzaji	 Wechsel	 	 0	 4.678253
+104	 PA	 1	 4	 8	 Deep	 Immediate	 mshambulizi	 Angreifer	 ukarabati	 0	 20.431383
+104	 PA	 1	 5	 1	 Shallow	 Immediate	 diwani	 Kanzler	 diwani	 1	 1.726590
+104	 PA	 1	 5	 2	 Deep	 Immediate	 mshambulizi	 Angreifer	 mshambulizi	 1	 25.952423
+104	 PA	 1	 5	 3	 Deep	 Delayed	 ugeuzaji	 Wechsel	 	 0	 9.806315
+104	 PA	 1	 5	 4	 Shallow	 Delayed	 angahewa	 Atmosphäre	 angahewa	 1	 4.163255
+104	 PA	 1	 5	 5	 Shallow	 Delayed	 kubadilika	 Flexibilität	 kubadilika	 1	 16.651265
+104	 PA	 1	 5	 6	 Deep	 Immediate	 mwimbaji	 Sänger	 ukarazai	 0	 7.317666
+104	 PA	 1	 5	 7	 Shallow	 Immediate	 uhasibu	 Abrechnung	 uhasibu	 1	 3.032725
+104	 PA	 1	 5	 8	 Deep	 Delayed	 ukarabati	 Erneuerung	 	 0	 8.841739
+104	 PA	 1	 6	 1	 Deep	 Immediate	 mwimbaji	 Sänger	 mwimbaji	 1	 10.945815
+104	 PA	 1	 6	 2	 Deep	 Delayed	 ugeuzaji	 Wechsel	 ugeuzi	 0	 9.737909
+104	 PA	 1	 6	 3	 Shallow	 Delayed	 angahewa	 Atmosphäre	 angahewa	 1	 3.594550
+104	 PA	 1	 6	 4	 Shallow	 Immediate	 uhasibu	 Abrechnung	 uhasibu	 1	 3.046615
+104	 PA	 1	 6	 5	 Deep	 Immediate	 mshambulizi	 Angreifer	 mshambarazi	 0	 18.241782
+104	 PA	 1	 6	 6	 Shallow	 Immediate	 diwani	 Kanzler	 diwani	 1	 1.922036
+104	 PA	 1	 6	 7	 Shallow	 Delayed	 kubadilika	 Flexibilität	 kubadilika	 1	 4.026995
+104	 PA	 1	 6	 8	 Deep	 Delayed	 ukarabati	 Erneuerung	 ugeuzaki	 0	 22.434418
+104	 PA	 1	 7	 1	 Shallow	 Immediate	 diwani	 Kanzler	 diwani	 1	 1.918845
+104	 PA	 1	 7	 2	 Deep	 Delayed	 ugeuzaji	 Wechsel	 ugeuzaki	 0	 9.169560
+104	 PA	 1	 7	 3	 Shallow	 Delayed	 kubadilika	 Flexibilität	 kubadilika	 1	 4.648636
+104	 PA	 1	 7	 4	 Deep	 Immediate	 mwimbaji	 Sänger	 mwimbaji	 1	 11.186325
+104	 PA	 1	 7	 5	 Deep	 Delayed	 ukarabati	 Erneuerung	 ukarabati	 1	 6.571222
+104	 PA	 1	 7	 6	 Shallow	 Delayed	 angahewa	 Atmosphäre	 angahewa	 1	 3.621327
+104	 PA	 1	 7	 7	 Deep	 Immediate	 mshambulizi	 Angreifer	 mshambulizi	 1	 7.140029
+104	 PA	 1	 7	 8	 Shallow	 Immediate	 uhasibu	 Abrechnung	 uhasibu	 1	 3.541954
+104	 PA	 2	 1	 1	 Shallow	 Delayed	 kinyongo	 Stimmung	 msukumo	 0	 14.082293
+104	 PA	 2	 1	 2	 Deep	 Delayed	 urekebisho	 Orientierung	 	 0	 2.246661
+104	 PA	 2	 1	 3	 Shallow	 Delayed	 mdanganyifu	 Betrüger	 mdanganyifu	 1	 9.623951
+104	 PA	 2	 1	 4	 Deep	 Immediate	 unaweza	 Können	 	 0	 1.684665
+104	 PA	 2	 1	 5	 Shallow	 Immediate	 kuhatarisha	 Gefährdung	 jaribio	 0	 8.728452
+104	 PA	 2	 1	 6	 Shallow	 Immediate	 kudhibiti	 Kontrolle	 mbinguni	 0	 5.722399
+104	 PA	 2	 1	 7	 Deep	 Immediate	 ubunifu	 Kreativität	 	 0	 1.683092
+104	 PA	 2	 1	 8	 Deep	 Delayed	 heshima	 Respekt	 	 0	 1.433322
+104	 PA	 2	 2	 1	 Shallow	 Immediate	 kuhatarisha	 Gefährdung	 kuhatarisha	 1	 5.396889
+104	 PA	 2	 2	 2	 Deep	 Immediate	 unaweza	 Können	 	 0	 2.285676
+104	 PA	 2	 2	 3	 Deep	 Delayed	 urekebisho	 Orientierung	 	 0	 1.616802
+104	 PA	 2	 2	 4	 Deep	 Delayed	 heshima	 Respekt	 hanami	 0	 5.656120
+104	 PA	 2	 2	 5	 Shallow	 Delayed	 mdanganyifu	 Betrüger	 mdanganyifu	 1	 7.420727
+104	 PA	 2	 2	 6	 Shallow	 Delayed	 kinyongo	 Stimmung	 kinyongo	 1	 6.101656
+104	 PA	 2	 2	 7	 Deep	 Immediate	 ubunifu	 Kreativität	 	 0	 2.521139
+104	 PA	 2	 2	 8	 Shallow	 Immediate	 kudhibiti	 Kontrolle	 kudhibiti	 1	 8.006181
+104	 PA	 2	 3	 1	 Shallow	 Immediate	 kudhibiti	 Kontrolle	 kudhibiti	 1	 2.152924
+104	 PA	 2	 3	 2	 Shallow	 Delayed	 kinyongo	 Stimmung	 kinyongo	 1	 2.063258
+104	 PA	 2	 3	 3	 Shallow	 Immediate	 kuhatarisha	 Gefährdung	 kuhatarisha	 1	 8.002325
+104	 PA	 2	 3	 4	 Deep	 Immediate	 unaweza	 Können	 umiziko	 0	 16.732307
+104	 PA	 2	 3	 5	 Deep	 Immediate	 ubunifu	 Kreativität	 	 0	 6.718731
+104	 PA	 2	 3	 6	 Deep	 Delayed	 heshima	 Respekt	 hasami	 0	 9.671848
+104	 PA	 2	 3	 7	 Deep	 Delayed	 urekebisho	 Orientierung	 	 0	 1.508165
+104	 PA	 2	 3	 8	 Shallow	 Delayed	 mdanganyifu	 Betrüger	 mdanganyifu	 1	 7.316645
+104	 PA	 2	 4	 1	 Deep	 Immediate	 unaweza	 Können	 uawani	 0	 12.758584
+104	 PA	 2	 4	 2	 Deep	 Delayed	 urekebisho	 Orientierung	 	 0	 2.025610
+104	 PA	 2	 4	 3	 Deep	 Immediate	 ubunifu	 Kreativität	 	 0	 3.071653
+104	 PA	 2	 4	 4	 Shallow	 Immediate	 kudhibiti	 Kontrolle	 kudhibiti	 1	 5.129122
+104	 PA	 2	 4	 5	 Shallow	 Delayed	 mdanganyifu	 Betrüger	 mdanganyifu	 1	 5.097691
+104	 PA	 2	 4	 6	 Shallow	 Delayed	 kinyongo	 Stimmung	 kinyongo	 1	 3.921467
+104	 PA	 2	 4	 7	 Deep	 Delayed	 heshima	 Respekt	 heshima	 1	 12.657991
+104	 PA	 2	 4	 8	 Shallow	 Immediate	 kuhatarisha	 Gefährdung	 kuhatarisha	 1	 5.583525
+104	 PA	 2	 5	 1	 Deep	 Immediate	 unaweza	 Können	 unawabi	 0	 17.778392
+104	 PA	 2	 5	 2	 Shallow	 Delayed	 mdanganyifu	 Betrüger	 mdanganyifu	 1	 4.597345
+104	 PA	 2	 5	 3	 Deep	 Delayed	 urekebisho	 Orientierung	 	 0	 4.094088
+104	 PA	 2	 5	 4	 Shallow	 Immediate	 kuhatarisha	 Gefährdung	 kuhatarisha	 1	 3.917925
+104	 PA	 2	 5	 5	 Deep	 Immediate	 ubunifu	 Kreativität	 unaweza	 0	 10.965764
+104	 PA	 2	 5	 6	 Shallow	 Delayed	 kinyongo	 Stimmung	 kinyongo	 1	 3.339857
+104	 PA	 2	 5	 7	 Deep	 Delayed	 heshima	 Respekt	 heshima	 1	 3.127089
+104	 PA	 2	 5	 8	 Shallow	 Immediate	 kudhibiti	 Kontrolle	 kulinganisha	 0	 5.520385
+104	 PA	 2	 6	 1	 Deep	 Immediate	 unaweza	 Können	 unaweza	 1	 5.540372
+104	 PA	 2	 6	 2	 Deep	 Immediate	 ubunifu	 Kreativität	 unekebishu	 0	 10.479497
+104	 PA	 2	 6	 3	 Deep	 Delayed	 urekebisho	 Orientierung	 unekebisho	 0	 8.399721
+104	 PA	 2	 6	 4	 Shallow	 Delayed	 kinyongo	 Stimmung	 kinyongo	 1	 2.893867
+104	 PA	 2	 6	 5	 Shallow	 Delayed	 mdanganyifu	 Betrüger	 mdanganyifu	 1	 6.177334
+104	 PA	 2	 6	 6	 Shallow	 Immediate	 kuhatarisha	 Gefährdung	 kuhatarisha	 1	 6.694613
+104	 PA	 2	 6	 7	 Shallow	 Immediate	 kudhibiti	 Kontrolle	 kudhibiti	 1	 2.939252
+104	 PA	 2	 6	 8	 Deep	 Delayed	 heshima	 Respekt	 heshima	 1	 4.683044
+104	 PA	 2	 7	 1	 Deep	 Delayed	 urekebisho	 Orientierung	 urekebisho	 1	 3.631715
+104	 PA	 2	 7	 2	 Shallow	 Delayed	 mdanganyifu	 Betrüger	 mdanganyifu	 1	 5.348368
+104	 PA	 2	 7	 3	 Shallow	 Immediate	 kuhatarisha	 Gefährdung	 kuhatarisha	 1	 4.211476
+104	 PA	 2	 7	 4	 Deep	 Immediate	 ubunifu	 Kreativität	 unaweza	 0	 19.727010
+104	 PA	 2	 7	 5	 Deep	 Immediate	 unaweza	 Können	 unaweza	 1	 3.255966
+104	 PA	 2	 7	 6	 Deep	 Delayed	 heshima	 Respekt	 heshima	 1	 2.461143
+104	 PA	 2	 7	 7	 Shallow	 Delayed	 kinyongo	 Stimmung	 kinyongo	 1	 1.956235
+104	 PA	 2	 7	 8	 Shallow	 Immediate	 kudhibiti	 Kontrolle	 kudhibiti	 1	 10.642476
+104	 PA	 3	 1	 1	 Deep	 Delayed	 karatasi	 Papier	 	 0	 2.055849
+104	 PA	 3	 1	 2	 Deep	 Immediate	 maongozi	 System	 	 0	 0.693577
+104	 PA	 3	 1	 3	 Deep	 Delayed	 kiwango	 Niveau	 	 0	 1.145174
+104	 PA	 3	 1	 4	 Shallow	 Immediate	 kiwiliwili	 Körper	 kiwiliwili	 1	 8.381982
+104	 PA	 3	 1	 5	 Deep	 Immediate	 banguko	 Lawine	 	 0	 1.094392
+104	 PA	 3	 1	 6	 Shallow	 Delayed	 maendeleo	 Entwicklung	 maendeleo	 1	 4.953439
+104	 PA	 3	 1	 7	 Shallow	 Immediate	 kilindo	 Übersicht	 kilindo	 1	 10.862645
+104	 PA	 3	 1	 8	 Shallow	 Delayed	 mashtaka	 Vorwurf	 kilekile	 0	 5.796647
+104	 PA	 3	 2	 1	 Shallow	 Immediate	 kiwiliwili	 Körper	 kiwiliwili	 1	 3.177749
+104	 PA	 3	 2	 2	 Shallow	 Immediate	 kilindo	 Übersicht	 kilindo	 1	 6.280914
+104	 PA	 3	 2	 3	 Shallow	 Delayed	 mashtaka	 Vorwurf	 mashtaka	 1	 4.133519
+104	 PA	 3	 2	 4	 Shallow	 Delayed	 maendeleo	 Entwicklung	 maendeleo	 1	 4.433188
+104	 PA	 3	 2	 5	 Deep	 Delayed	 kiwango	 Niveau	 	 0	 1.536033
+104	 PA	 3	 2	 6	 Deep	 Immediate	 maongozi	 System	 	 0	 1.231062
+104	 PA	 3	 2	 7	 Deep	 Immediate	 banguko	 Lawine	 bungko	 0	 4.827654
+104	 PA	 3	 2	 8	 Deep	 Delayed	 karatasi	 Papier	 	 0	 2.411225
+104	 PA	 3	 3	 1	 Deep	 Delayed	 karatasi	 Papier	 karasi	 0	 2.792633
+104	 PA	 3	 3	 2	 Deep	 Immediate	 maongozi	 System	 mandeo	 0	 8.686875
+104	 PA	 3	 3	 3	 Deep	 Delayed	 kiwango	 Niveau	 	 0	 2.618973
+104	 PA	 3	 3	 4	 Shallow	 Immediate	 kiwiliwili	 Körper	 kiwiliwili	 1	 3.664801
+104	 PA	 3	 3	 5	 Shallow	 Delayed	 maendeleo	 Entwicklung	 maendeleo	 1	 2.467303
+104	 PA	 3	 3	 6	 Shallow	 Immediate	 kilindo	 Übersicht	 kilindo	 1	 4.019619
+104	 PA	 3	 3	 7	 Shallow	 Delayed	 mashtaka	 Vorwurf	 mashtaka	 1	 3.820092
+104	 PA	 3	 3	 8	 Deep	 Immediate	 banguko	 Lawine	 banguko	 1	 7.450208
+104	 PA	 3	 4	 1	 Deep	 Delayed	 kiwango	 Niveau	 kawatasi	 0	 7.155514
+104	 PA	 3	 4	 2	 Deep	 Delayed	 karatasi	 Papier	 kasatasi	 0	 12.703988
+104	 PA	 3	 4	 3	 Shallow	 Immediate	 kilindo	 Übersicht	 kilindo	 1	 4.265135
+104	 PA	 3	 4	 4	 Shallow	 Immediate	 kiwiliwili	 Körper	 kiwiliwili	 1	 6.885250
+104	 PA	 3	 4	 5	 Shallow	 Delayed	 maendeleo	 Entwicklung	 maendeleo	 1	 2.876469
+104	 PA	 3	 4	 6	 Shallow	 Delayed	 mashtaka	 Vorwurf	 mashtaka	 1	 2.358297
+104	 PA	 3	 4	 7	 Deep	 Immediate	 banguko	 Lawine	 banguko	 1	 2.819377
+104	 PA	 3	 4	 8	 Deep	 Immediate	 maongozi	 System	 	 0	 11.980816
+104	 PA	 3	 5	 1	 Deep	 Immediate	 banguko	 Lawine	 banguko	 1	 3.529970
+104	 PA	 3	 5	 2	 Shallow	 Delayed	 mashtaka	 Vorwurf	 mashtaka	 1	 2.387930
+104	 PA	 3	 5	 3	 Deep	 Delayed	 kiwango	 Niveau	 	 0	 12.703245
+104	 PA	 3	 5	 4	 Shallow	 Delayed	 maendeleo	 Entwicklung	 maendeleo	 1	 3.272637
+104	 PA	 3	 5	 5	 Deep	 Immediate	 maongozi	 System	 manguso	 0	 6.427573
+104	 PA	 3	 5	 6	 Shallow	 Immediate	 kiwiliwili	 Körper	 kiwiliwili	 1	 1.746497
+104	 PA	 3	 5	 7	 Shallow	 Immediate	 kilindo	 Übersicht	 kilindo	 1	 3.452315
+104	 PA	 3	 5	 8	 Deep	 Delayed	 karatasi	 Papier	 karatasi	 1	 3.445853
+104	 PA	 3	 6	 1	 Shallow	 Delayed	 maendeleo	 Entwicklung	 maendeleo	 1	 2.577379
+104	 PA	 3	 6	 2	 Deep	 Immediate	 maongozi	 System	 maongozi	 1	 7.511864
+104	 PA	 3	 6	 3	 Deep	 Immediate	 banguko	 Lawine	 banguko	 1	 2.853205
+104	 PA	 3	 6	 4	 Deep	 Delayed	 kiwango	 Niveau	 	 0	 3.921016
+104	 PA	 3	 6	 5	 Shallow	 Immediate	 kiwiliwili	 Körper	 kiwiliwili	 1	 1.725915
+104	 PA	 3	 6	 6	 Deep	 Delayed	 karatasi	 Papier	 karatasi	 1	 3.274605
+104	 PA	 3	 6	 7	 Shallow	 Immediate	 kilindo	 Übersicht	 kilindo	 1	 3.819557
+104	 PA	 3	 6	 8	 Shallow	 Delayed	 mashtaka	 Vorwurf	 mashtaka	 1	 3.269485
+104	 PA	 4	 1	 1	 Deep	 Immediate	 mtihani	 Prüfung	 	 0	 2.378895
+104	 PA	 4	 1	 2	 Shallow	 Delayed	 kukutana	 Begegnung	 enjini	 0	 7.012346
+104	 PA	 4	 1	 3	 Deep	 Delayed	 uadilifu	 Integrität	 	 0	 1.484522
+104	 PA	 4	 1	 4	 Shallow	 Immediate	 utamaduni	 Kultur	 shetani	 0	 8.526981
+104	 PA	 4	 1	 5	 Deep	 Delayed	 mshakiki	 Fleisch	 	 0	 1.448215
+104	 PA	 4	 1	 6	 Shallow	 Immediate	 kuchelewa	 Verzögerung	 rasilmali	 0	 6.665161
+104	 PA	 4	 1	 7	 Deep	 Immediate	 ugomaji	 Aufstand	 	 0	 1.321875
+104	 PA	 4	 1	 8	 Shallow	 Delayed	 idhini	 Genehmigung	 kutoamini	 0	 4.730290
+104	 PA	 4	 2	 1	 Shallow	 Immediate	 kuchelewa	 Verzögerung	 kuchelewa	 1	 3.360822
+104	 PA	 4	 2	 2	 Deep	 Immediate	 ugomaji	 Aufstand	 	 0	 8.780227
+104	 PA	 4	 2	 3	 Deep	 Delayed	 uadilifu	 Integrität	 	 0	 2.928139
+104	 PA	 4	 2	 4	 Deep	 Delayed	 mshakiki	 Fleisch	 	 0	 3.487329
+104	 PA	 4	 2	 5	 Shallow	 Delayed	 idhini	 Genehmigung	 kisambo	 0	 7.875288
+104	 PA	 4	 2	 6	 Shallow	 Immediate	 utamaduni	 Kultur	 udhaifu	 0	 5.582778
+104	 PA	 4	 2	 7	 Deep	 Immediate	 mtihani	 Prüfung	 mtihini	 0	 3.149908
+104	 PA	 4	 2	 8	 Shallow	 Delayed	 kukutana	 Begegnung	 kukutana	 1	 5.740976
+104	 PA	 4	 3	 1	 Shallow	 Delayed	 kukutana	 Begegnung	 kukutana	 1	 3.650654
+104	 PA	 4	 3	 2	 Shallow	 Delayed	 idhini	 Genehmigung	 idhini	 1	 4.880578
+104	 PA	 4	 3	 3	 Deep	 Immediate	 mtihani	 Prüfung	 mtihani	 1	 7.741095
+104	 PA	 4	 3	 4	 Shallow	 Immediate	 kuchelewa	 Verzögerung	 kuchelewa	 1	 7.679141
+104	 PA	 4	 3	 5	 Deep	 Immediate	 ugomaji	 Aufstand	 	 0	 13.743198
+104	 PA	 4	 3	 6	 Deep	 Delayed	 mshakiki	 Fleisch	 mshtaka	 0	 4.316949
+104	 PA	 4	 3	 7	 Shallow	 Immediate	 utamaduni	 Kultur	 utamaduni	 1	 3.998286
+104	 PA	 4	 3	 8	 Deep	 Delayed	 uadilifu	 Integrität	 	 0	 2.275818
+104	 PA	 4	 4	 1	 Shallow	 Delayed	 kukutana	 Begegnung	 kukutana	 1	 3.195354
+104	 PA	 4	 4	 2	 Deep	 Delayed	 mshakiki	 Fleisch	 mshakiki	 1	 3.820448
+104	 PA	 4	 4	 3	 Deep	 Immediate	 mtihani	 Prüfung	 mtihani	 1	 4.569272
+104	 PA	 4	 4	 4	 Deep	 Delayed	 uadilifu	 Integrität	 ugozi	 0	 6.636315
+104	 PA	 4	 4	 5	 Shallow	 Immediate	 utamaduni	 Kultur	 utamaduni	 1	 7.062912
+104	 PA	 4	 4	 6	 Shallow	 Immediate	 kuchelewa	 Verzögerung	 kuchelewa	 1	 2.845010
+104	 PA	 4	 4	 7	 Deep	 Immediate	 ugomaji	 Aufstand	 ugozi	 0	 6.222690
+104	 PA	 4	 4	 8	 Shallow	 Delayed	 idhini	 Genehmigung	 idhini	 1	 2.182457
+104	 PA	 4	 5	 1	 Shallow	 Immediate	 utamaduni	 Kultur	 utamaduni	 1	 5.252537
+104	 PA	 4	 5	 2	 Shallow	 Delayed	 idhini	 Genehmigung	 idhini	 1	 2.971216
+104	 PA	 4	 5	 3	 Deep	 Immediate	 mtihani	 Prüfung	 mtihani	 1	 6.303304
+104	 PA	 4	 5	 4	 Deep	 Delayed	 mshakiki	 Fleisch	 mshakiki	 1	 3.790276
+104	 PA	 4	 5	 5	 Shallow	 Delayed	 kukutana	 Begegnung	 kukutana	 1	 4.601560
+104	 PA	 4	 5	 6	 Shallow	 Immediate	 kuchelewa	 Verzögerung	 kuchelewa	 1	 3.012814
+104	 PA	 4	 5	 7	 Deep	 Delayed	 uadilifu	 Integrität	 uabilifu	 0	 6.625480
+104	 PA	 4	 5	 8	 Deep	 Immediate	 ugomaji	 Aufstand	 ugozami	 0	 14.624397
+104	 PA	 4	 6	 1	 Deep	 Delayed	 uadilifu	 Integrität	 uabilifu	 0	 17.378851
+104	 PA	 4	 6	 2	 Shallow	 Immediate	 utamaduni	 Kultur	 utamaduni	 1	 3.704871
+104	 PA	 4	 6	 3	 Shallow	 Delayed	 kukutana	 Begegnung	 kukutana	 1	 2.438719
+104	 PA	 4	 6	 4	 Shallow	 Immediate	 kuchelewa	 Verzögerung	 kuchelewa	 1	 2.848918
+104	 PA	 4	 6	 5	 Deep	 Delayed	 mshakiki	 Fleisch	 mshakiki	 1	 3.149616
+104	 PA	 4	 6	 6	 Deep	 Immediate	 ugomaji	 Aufstand	 ugomaji	 1	 7.587483
+104	 PA	 4	 6	 7	 Deep	 Immediate	 mtihani	 Prüfung	 mtihani	 1	 3.424152
+104	 PA	 4	 6	 8	 Shallow	 Delayed	 idhini	 Genehmigung	 idhini	 1	 2.581191

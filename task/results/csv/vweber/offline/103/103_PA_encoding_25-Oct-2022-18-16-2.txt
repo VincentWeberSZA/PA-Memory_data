@@ -1,0 +1,1 @@
+id	 activity	 block	 run	 trial	 encodingStrategy	 retentionInterval	 textItemSw	 textItemDe	 response	 correct	 rt
