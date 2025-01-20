@@ -1,0 +1,201 @@
+id	 activity	 block	 run	 trial	 encodingStrategy	 retentionInterval	 textItemSw	 textItemDe	 response	 correct	 rt
+103	 PA	 1	 1	 1	 Deep	 Immediate	 ufungaji	 Verpackung	 	 0	 4.282222
+103	 PA	 1	 1	 2	 Shallow	 Immediate	 mshtuko	 Schock	 mshtuko	 1	 7.322537
+103	 PA	 1	 1	 3	 Shallow	 Immediate	 nadharia	 Theorie	 tasawari	 0	 9.299828
+103	 PA	 1	 1	 4	 Deep	 Delayed	 ushindani	 Wettbewerb	 	 0	 3.328700
+103	 PA	 1	 1	 5	 Shallow	 Delayed	 kirembo	 Schönheit	 kirembo	 1	 7.961489
+103	 PA	 1	 1	 6	 Deep	 Immediate	 matarajio	 Hoffnung	 	 0	 4.009721
+103	 PA	 1	 1	 7	 Deep	 Delayed	 uagizaji	 Auftrag	 	 0	 6.446919
+103	 PA	 1	 1	 8	 Shallow	 Delayed	 kikuti	 Zufall	 nderemo	 0	 12.422571
+103	 PA	 1	 2	 1	 Shallow	 Delayed	 kirembo	 Schönheit	 kirembo	 1	 6.546194
+103	 PA	 1	 2	 2	 Shallow	 Delayed	 kikuti	 Zufall	 kikuti	 1	 6.069050
+103	 PA	 1	 2	 3	 Deep	 Delayed	 ushindani	 Wettbewerb	 	 0	 14.730930
+103	 PA	 1	 2	 4	 Shallow	 Immediate	 mshtuko	 Schock	 mshtuko	 1	 8.124185
+103	 PA	 1	 2	 5	 Deep	 Immediate	 matarajio	 Hoffnung	 	 0	 6.134322
+103	 PA	 1	 2	 6	 Deep	 Immediate	 ufungaji	 Verpackung	 	 0	 9.300995
+103	 PA	 1	 2	 7	 Shallow	 Immediate	 nadharia	 Theorie	 tasawari	 0	 10.292922
+103	 PA	 1	 2	 8	 Deep	 Delayed	 uagizaji	 Auftrag	 uakizaji	 0	 6.631933
+103	 PA	 1	 3	 1	 Deep	 Immediate	 ufungaji	 Verpackung	 ufungaji	 1	 8.828589
+103	 PA	 1	 3	 2	 Shallow	 Immediate	 mshtuko	 Schock	 mshtuko	 1	 3.148569
+103	 PA	 1	 3	 3	 Shallow	 Delayed	 kirembo	 Schönheit	 kirembo	 1	 3.277300
+103	 PA	 1	 3	 4	 Deep	 Delayed	 ushindani	 Wettbewerb	 lawaani	 0	 16.688284
+103	 PA	 1	 3	 5	 Shallow	 Immediate	 nadharia	 Theorie	 nadharia	 1	 4.928944
+103	 PA	 1	 3	 6	 Shallow	 Delayed	 kikuti	 Zufall	 kikuti	 1	 2.343883
+103	 PA	 1	 3	 7	 Deep	 Immediate	 matarajio	 Hoffnung	 mataashi	 0	 18.122659
+103	 PA	 1	 3	 8	 Deep	 Delayed	 uagizaji	 Auftrag	 uagaji	 0	 21.652899
+103	 PA	 1	 4	 1	 Shallow	 Immediate	 nadharia	 Theorie	 nadharia	 1	 2.901931
+103	 PA	 1	 4	 2	 Shallow	 Immediate	 mshtuko	 Schock	 mshtuko	 1	 3.590606
+103	 PA	 1	 4	 3	 Shallow	 Delayed	 kikuti	 Zufall	 kikuti	 1	 2.428507
+103	 PA	 1	 4	 4	 Shallow	 Delayed	 kirembo	 Schönheit	 kirembo	 1	 2.810777
+103	 PA	 1	 4	 5	 Deep	 Delayed	 uagizaji	 Auftrag	 uagizaji	 1	 9.485976
+103	 PA	 1	 4	 6	 Deep	 Immediate	 matarajio	 Hoffnung	 magazaji	 0	 10.010481
+103	 PA	 1	 4	 7	 Deep	 Delayed	 ushindani	 Wettbewerb	 ufungaji	 0	 7.401739
+103	 PA	 1	 4	 8	 Deep	 Immediate	 ufungaji	 Verpackung	 ufungaji	 1	 5.449170
+103	 PA	 1	 5	 1	 Deep	 Delayed	 uagizaji	 Auftrag	 uagazaji	 0	 8.785168
+103	 PA	 1	 5	 2	 Shallow	 Delayed	 kirembo	 Schönheit	 kirembo	 1	 2.888145
+103	 PA	 1	 5	 3	 Shallow	 Immediate	 mshtuko	 Schock	 mshtuko	 1	 2.656010
+103	 PA	 1	 5	 4	 Deep	 Immediate	 ufungaji	 Verpackung	 ufungaji	 1	 11.056973
+103	 PA	 1	 5	 5	 Shallow	 Delayed	 kikuti	 Zufall	 kikuti	 1	 2.089683
+103	 PA	 1	 5	 6	 Deep	 Immediate	 matarajio	 Hoffnung	 matarajio	 1	 7.324428
+103	 PA	 1	 5	 7	 Deep	 Delayed	 ushindani	 Wettbewerb	 uashingo	 0	 10.592359
+103	 PA	 1	 5	 8	 Shallow	 Immediate	 nadharia	 Theorie	 nadharia	 1	 3.423222
+103	 PA	 1	 6	 1	 Shallow	 Immediate	 nadharia	 Theorie	 nadharia	 1	 3.454125
+103	 PA	 1	 6	 2	 Shallow	 Delayed	 kirembo	 Schönheit	 kirembo	 1	 3.605006
+103	 PA	 1	 6	 3	 Deep	 Immediate	 ufungaji	 Verpackung	 ufungaji	 1	 7.575880
+103	 PA	 1	 6	 4	 Shallow	 Delayed	 kikuti	 Zufall	 kikuti	 1	 2.435497
+103	 PA	 1	 6	 5	 Deep	 Delayed	 ushindani	 Wettbewerb	 ushingaji	 0	 13.338411
+103	 PA	 1	 6	 6	 Deep	 Delayed	 uagizaji	 Auftrag	 uagizaji	 1	 5.581615
+103	 PA	 1	 6	 7	 Shallow	 Immediate	 mshtuko	 Schock	 mshtuko	 1	 2.578785
+103	 PA	 1	 6	 8	 Deep	 Immediate	 matarajio	 Hoffnung	 matarijo	 0	 39.425389
+103	 PA	 1	 7	 1	 Shallow	 Delayed	 kikuti	 Zufall	 kikuti	 1	 1.815890
+103	 PA	 1	 7	 2	 Shallow	 Immediate	 nadharia	 Theorie	 nadharia	 1	 2.890547
+103	 PA	 1	 7	 3	 Deep	 Delayed	 uagizaji	 Auftrag	 uagizaji	 1	 6.211019
+103	 PA	 1	 7	 4	 Shallow	 Delayed	 kirembo	 Schönheit	 kirembo	 1	 2.590216
+103	 PA	 1	 7	 5	 Deep	 Immediate	 ufungaji	 Verpackung	 ufungaji	 1	 9.473428
+103	 PA	 1	 7	 6	 Deep	 Delayed	 ushindani	 Wettbewerb	 ushindani	 1	 11.024117
+103	 PA	 1	 7	 7	 Shallow	 Immediate	 mshtuko	 Schock	 mshtuko	 1	 5.129942
+103	 PA	 1	 7	 8	 Deep	 Immediate	 matarajio	 Hoffnung	 matarajio	 1	 8.809731
+103	 PA	 2	 1	 1	 Deep	 Delayed	 wakati	 Gelegenheit	 	 0	 6.574759
+103	 PA	 2	 1	 2	 Shallow	 Immediate	 mafanikio	 Wohlstand	 maslahi	 0	 9.389377
+103	 PA	 2	 1	 3	 Deep	 Immediate	 kichekesho	 Vergnügen	 	 0	 3.793765
+103	 PA	 2	 1	 4	 Deep	 Delayed	 kutengwa	 Ausschluss	 	 0	 2.588866
+103	 PA	 2	 1	 5	 Shallow	 Delayed	 usulubu	 Widerstand	 hadhari	 0	 9.240482
+103	 PA	 2	 1	 6	 Shallow	 Immediate	 kijalizo	 Ergänzung	 maarifa	 0	 5.502517
+103	 PA	 2	 1	 7	 Deep	 Immediate	 dharura	 Notfall	 	 0	 1.643492
+103	 PA	 2	 1	 8	 Shallow	 Delayed	 ufahamivu	 Verstand	 ufahamivu	 1	 6.343306
+103	 PA	 2	 2	 1	 Deep	 Immediate	 kichekesho	 Vergnügen	 	 0	 2.183602
+103	 PA	 2	 2	 2	 Deep	 Delayed	 wakati	 Gelegenheit	 ukuraji	 0	 5.031163
+103	 PA	 2	 2	 3	 Deep	 Delayed	 kutengwa	 Ausschluss	 	 0	 1.771557
+103	 PA	 2	 2	 4	 Shallow	 Immediate	 mafanikio	 Wohlstand	 mafanikio	 1	 3.549050
+103	 PA	 2	 2	 5	 Shallow	 Immediate	 kijalizo	 Ergänzung	 kijalizo	 1	 5.848210
+103	 PA	 2	 2	 6	 Deep	 Immediate	 dharura	 Notfall	 dharani	 0	 5.728126
+103	 PA	 2	 2	 7	 Shallow	 Delayed	 ufahamivu	 Verstand	 kujiamini	 0	 7.604090
+103	 PA	 2	 2	 8	 Shallow	 Delayed	 usulubu	 Widerstand	 usulubu	 1	 4.382863
+103	 PA	 2	 3	 1	 Shallow	 Delayed	 usulubu	 Widerstand	 usulubu	 1	 1.793560
+103	 PA	 2	 3	 2	 Deep	 Delayed	 kutengwa	 Ausschluss	 	 0	 3.502518
+103	 PA	 2	 3	 3	 Deep	 Immediate	 dharura	 Notfall	 dhararu	 0	 14.478693
+103	 PA	 2	 3	 4	 Deep	 Delayed	 wakati	 Gelegenheit	 wakiti	 0	 10.803022
+103	 PA	 2	 3	 5	 Shallow	 Immediate	 mafanikio	 Wohlstand	 mafanikio	 1	 9.192839
+103	 PA	 2	 3	 6	 Shallow	 Immediate	 kijalizo	 Ergänzung	 kijalizo	 1	 7.614656
+103	 PA	 2	 3	 7	 Deep	 Immediate	 kichekesho	 Vergnügen	 	 0	 9.847778
+103	 PA	 2	 3	 8	 Shallow	 Delayed	 ufahamivu	 Verstand	 kujiamini	 0	 8.380469
+103	 PA	 2	 4	 1	 Deep	 Immediate	 dharura	 Notfall	 dharura	 1	 5.233101
+103	 PA	 2	 4	 2	 Deep	 Delayed	 kutengwa	 Ausschluss	 kengwo	 0	 5.619955
+103	 PA	 2	 4	 3	 Shallow	 Immediate	 kijalizo	 Ergänzung	 kijalizo	 1	 3.440792
+103	 PA	 2	 4	 4	 Shallow	 Delayed	 usulubu	 Widerstand	 usulubu	 1	 3.584631
+103	 PA	 2	 4	 5	 Shallow	 Immediate	 mafanikio	 Wohlstand	 mafanikio	 1	 4.508088
+103	 PA	 2	 4	 6	 Deep	 Delayed	 wakati	 Gelegenheit	 wikati	 0	 8.695112
+103	 PA	 2	 4	 7	 Shallow	 Delayed	 ufahamivu	 Verstand	 ufahamivu	 1	 3.834987
+103	 PA	 2	 4	 8	 Deep	 Immediate	 kichekesho	 Vergnügen	 kechesho	 0	 20.879443
+103	 PA	 2	 5	 1	 Shallow	 Immediate	 kijalizo	 Ergänzung	 kijalizo	 1	 3.958296
+103	 PA	 2	 5	 2	 Shallow	 Delayed	 ufahamivu	 Verstand	 ufahamivu	 1	 3.707511
+103	 PA	 2	 5	 3	 Shallow	 Immediate	 mafanikio	 Wohlstand	 mafanikio	 1	 2.807038
+103	 PA	 2	 5	 4	 Deep	 Immediate	 kichekesho	 Vergnügen	 kichekesho	 1	 6.801360
+103	 PA	 2	 5	 5	 Deep	 Delayed	 kutengwa	 Ausschluss	 wakati	 0	 3.494502
+103	 PA	 2	 5	 6	 Shallow	 Delayed	 usulubu	 Widerstand	 usulubu	 1	 3.435304
+103	 PA	 2	 5	 7	 Deep	 Immediate	 dharura	 Notfall	 dharura	 1	 4.702236
+103	 PA	 2	 5	 8	 Deep	 Delayed	 wakati	 Gelegenheit	 wakati	 1	 5.295808
+103	 PA	 3	 1	 1	 Shallow	 Immediate	 upelelezi	 Spionage	 magangao	 0	 7.342502
+103	 PA	 3	 1	 2	 Deep	 Immediate	 wanaojaribu	 Tester	 	 0	 1.871918
+103	 PA	 3	 1	 3	 Shallow	 Delayed	 kielezo	 Symbol	 mahojiano	 0	 9.018229
+103	 PA	 3	 1	 4	 Deep	 Delayed	 mshindani	 Konkurrent	 	 0	 2.342302
+103	 PA	 3	 1	 5	 Deep	 Delayed	 tahadhari	 Vorsorge	 	 0	 1.180552
+103	 PA	 3	 1	 6	 Deep	 Immediate	 mwanafunzi	 Schüler	 	 0	 3.657576
+103	 PA	 3	 1	 7	 Shallow	 Immediate	 dirisha	 Fenster	 utokazo	 0	 8.735803
+103	 PA	 3	 1	 8	 Shallow	 Delayed	 nyongeza	 Zuwachs	 kusababisha	 0	 6.480973
+103	 PA	 3	 2	 1	 Deep	 Delayed	 mshindani	 Konkurrent	 	 0	 4.274291
+103	 PA	 3	 2	 2	 Deep	 Delayed	 tahadhari	 Vorsorge	 tahdera	 0	 6.702906
+103	 PA	 3	 2	 3	 Shallow	 Immediate	 dirisha	 Fenster	 dirisha	 1	 3.507787
+103	 PA	 3	 2	 4	 Deep	 Immediate	 wanaojaribu	 Tester	 	 0	 2.197222
+103	 PA	 3	 2	 5	 Deep	 Immediate	 mwanafunzi	 Schüler	 mbwawini	 0	 6.223863
+103	 PA	 3	 2	 6	 Shallow	 Delayed	 kielezo	 Symbol	 kielezo	 1	 2.797460
+103	 PA	 3	 2	 7	 Shallow	 Immediate	 upelelezi	 Spionage	 upelelezi	 1	 5.387571
+103	 PA	 3	 2	 8	 Shallow	 Delayed	 nyongeza	 Zuwachs	 nyongeza	 1	 4.877208
+103	 PA	 3	 3	 1	 Shallow	 Immediate	 upelelezi	 Spionage	 upelelezi	 1	 2.554971
+103	 PA	 3	 3	 2	 Deep	 Delayed	 mshindani	 Konkurrent	 mbashini	 0	 5.024628
+103	 PA	 3	 3	 3	 Deep	 Delayed	 tahadhari	 Vorsorge	 tahdahri	 0	 8.263902
+103	 PA	 3	 3	 4	 Shallow	 Delayed	 nyongeza	 Zuwachs	 nyongeza	 1	 2.384266
+103	 PA	 3	 3	 5	 Shallow	 Immediate	 dirisha	 Fenster	 dirisha	 1	 1.961948
+103	 PA	 3	 3	 6	 Deep	 Immediate	 mwanafunzi	 Schüler	 mwafuninzo	 0	 11.257206
+103	 PA	 3	 3	 7	 Shallow	 Delayed	 kielezo	 Symbol	 kielezo	 1	 1.536923
+103	 PA	 3	 3	 8	 Deep	 Immediate	 wanaojaribu	 Tester	 	 0	 4.835815
+103	 PA	 3	 4	 1	 Deep	 Immediate	 mwanafunzi	 Schüler	 mwanafunzi	 1	 10.143443
+103	 PA	 3	 4	 2	 Deep	 Immediate	 wanaojaribu	 Tester	 waojarubi	 0	 21.986791
+103	 PA	 3	 4	 3	 Deep	 Delayed	 tahadhari	 Vorsorge	 tahadhari	 1	 5.173900
+103	 PA	 3	 4	 4	 Shallow	 Immediate	 upelelezi	 Spionage	 upelelezi	 1	 2.753322
+103	 PA	 3	 4	 5	 Shallow	 Delayed	 nyongeza	 Zuwachs	 nyongeza	 1	 3.085251
+103	 PA	 3	 4	 6	 Deep	 Delayed	 mshindani	 Konkurrent	 mwashinbo	 0	 17.946782
+103	 PA	 3	 4	 7	 Shallow	 Immediate	 dirisha	 Fenster	 dirisha	 1	 2.112659
+103	 PA	 3	 4	 8	 Shallow	 Delayed	 kielezo	 Symbol	 kielezo	 1	 3.340907
+103	 PA	 3	 5	 1	 Shallow	 Delayed	 nyongeza	 Zuwachs	 nyongeza	 1	 3.055830
+103	 PA	 3	 5	 2	 Deep	 Delayed	 mshindani	 Konkurrent	 mwashini	 0	 18.802709
+103	 PA	 3	 5	 3	 Shallow	 Immediate	 dirisha	 Fenster	 dirisha	 1	 3.879987
+103	 PA	 3	 5	 4	 Deep	 Delayed	 tahadhari	 Vorsorge	 tahadhari	 1	 3.714037
+103	 PA	 3	 5	 5	 Shallow	 Immediate	 upelelezi	 Spionage	 upelelezi	 1	 2.153632
+103	 PA	 3	 5	 6	 Deep	 Immediate	 wanaojaribu	 Tester	 waonjoribu	 0	 21.427602
+103	 PA	 3	 5	 7	 Deep	 Immediate	 mwanafunzi	 Schüler	 mbwashini	 0	 11.517388
+103	 PA	 3	 5	 8	 Shallow	 Delayed	 kielezo	 Symbol	 kielezo	 1	 1.346909
+103	 PA	 3	 6	 1	 Deep	 Delayed	 tahadhari	 Vorsorge	 tahadhari	 1	 3.216372
+103	 PA	 3	 6	 2	 Shallow	 Immediate	 dirisha	 Fenster	 dirisha	 1	 1.695486
+103	 PA	 3	 6	 3	 Deep	 Immediate	 mwanafunzi	 Schüler	 mwanafunzi	 1	 6.744229
+103	 PA	 3	 6	 4	 Deep	 Delayed	 mshindani	 Konkurrent	 mwajaribu	 0	 54.207693
+103	 PA	 3	 6	 5	 Deep	 Immediate	 wanaojaribu	 Tester	 waohajaribu	 0	 26.775004
+103	 PA	 3	 6	 6	 Shallow	 Delayed	 nyongeza	 Zuwachs	 nyongeza	 1	 2.524651
+103	 PA	 3	 6	 7	 Shallow	 Immediate	 upelelezi	 Spionage	 upelelezi	 1	 2.369734
+103	 PA	 3	 6	 8	 Shallow	 Delayed	 kielezo	 Symbol	 kielezo	 1	 2.125070
+103	 PA	 3	 7	 1	 Shallow	 Delayed	 kielezo	 Symbol	 kielezo	 1	 3.103464
+103	 PA	 3	 7	 2	 Shallow	 Immediate	 upelelezi	 Spionage	 upelelezi	 1	 1.971588
+103	 PA	 3	 7	 3	 Deep	 Delayed	 tahadhari	 Vorsorge	 tahadhari	 1	 3.256886
+103	 PA	 3	 7	 4	 Shallow	 Delayed	 nyongeza	 Zuwachs	 nyongeza	 1	 3.960505
+103	 PA	 3	 7	 5	 Deep	 Immediate	 mwanafunzi	 Schüler	 mwafanunzi	 0	 8.002211
+103	 PA	 3	 7	 6	 Shallow	 Immediate	 dirisha	 Fenster	 dirisha	 1	 2.100364
+103	 PA	 3	 7	 7	 Deep	 Delayed	 mshindani	 Konkurrent	 mshidani	 0	 4.507794
+103	 PA	 3	 7	 8	 Deep	 Immediate	 wanaojaribu	 Tester	 wanaojaribu	 1	 4.438206
+103	 PA	 3	 8	 1	 Deep	 Delayed	 tahadhari	 Vorsorge	 tahadhari	 1	 4.012144
+103	 PA	 3	 8	 2	 Deep	 Delayed	 mshindani	 Konkurrent	 mshindani	 1	 5.726555
+103	 PA	 3	 8	 3	 Deep	 Immediate	 mwanafunzi	 Schüler	 mwafaninzo	 0	 8.507222
+103	 PA	 3	 8	 4	 Shallow	 Immediate	 dirisha	 Fenster	 dirisha	 1	 1.696548
+103	 PA	 3	 8	 5	 Deep	 Immediate	 wanaojaribu	 Tester	 wanaojarubi	 0	 4.150656
+103	 PA	 3	 8	 6	 Shallow	 Delayed	 kielezo	 Symbol	 kielezo	 1	 1.647203
+103	 PA	 3	 8	 7	 Shallow	 Delayed	 nyongeza	 Zuwachs	 nyongeza	 1	 5.220344
+103	 PA	 3	 8	 8	 Shallow	 Immediate	 upelelezi	 Spionage	 upelelezi	 1	 2.073155
+103	 PA	 3	 9	 1	 Shallow	 Immediate	 dirisha	 Fenster	 dirisha	 1	 1.890995
+103	 PA	 3	 9	 2	 Deep	 Delayed	 mshindani	 Konkurrent	 mshindani	 1	 3.922944
+103	 PA	 3	 9	 3	 Shallow	 Immediate	 upelelezi	 Spionage	 upelelezi	 1	 2.071703
+103	 PA	 3	 9	 4	 Shallow	 Delayed	 kielezo	 Symbol	 kielezo	 1	 2.246901
+103	 PA	 3	 9	 5	 Deep	 Immediate	 mwanafunzi	 Schüler	 mwanafunzi	 1	 14.084749
+103	 PA	 3	 9	 6	 Deep	 Delayed	 tahadhari	 Vorsorge	 tahadhari	 1	 2.693154
+103	 PA	 3	 9	 7	 Deep	 Immediate	 wanaojaribu	 Tester	 wanaojaribu	 1	 9.733921
+103	 PA	 3	 9	 8	 Shallow	 Delayed	 nyongeza	 Zuwachs	 nyongeza	 1	 2.215209
+103	 PA	 4	 1	 1	 Shallow	 Delayed	 mapendano	 Sympathie	 dhamiria	 0	 7.819023
+103	 PA	 4	 1	 2	 Deep	 Delayed	 msongora	 Polizist	 	 0	 1.514904
+103	 PA	 4	 1	 3	 Deep	 Delayed	 ushahidi	 Beweis	 	 0	 0.593335
+103	 PA	 4	 1	 4	 Shallow	 Immediate	 kuvumiliana	 Toleranz	 mapwaji	 0	 6.309198
+103	 PA	 4	 1	 5	 Deep	 Immediate	 yaliyomo	 Inhalt	 	 0	 1.349832
+103	 PA	 4	 1	 6	 Shallow	 Immediate	 foleni	 Schlange	 vichekesho	 0	 5.617243
+103	 PA	 4	 1	 7	 Deep	 Immediate	 udhanifu	 Vermutung	 	 0	 2.948894
+103	 PA	 4	 1	 8	 Shallow	 Delayed	 maegesho	 Annäherung	 fungamano	 0	 10.844115
+103	 PA	 4	 2	 1	 Deep	 Delayed	 ushahidi	 Beweis	 	 0	 2.923833
+103	 PA	 4	 2	 2	 Shallow	 Immediate	 kuvumiliana	 Toleranz	 kuvumiliana	 1	 5.169915
+103	 PA	 4	 2	 3	 Deep	 Delayed	 msongora	 Polizist	 	 0	 9.918810
+103	 PA	 4	 2	 4	 Deep	 Immediate	 yaliyomo	 Inhalt	 	 0	 2.082802
+103	 PA	 4	 2	 5	 Shallow	 Delayed	 maegesho	 Annäherung	 maegesho	 1	 3.217549
+103	 PA	 4	 2	 6	 Deep	 Immediate	 udhanifu	 Vermutung	 	 0	 2.730936
+103	 PA	 4	 2	 7	 Shallow	 Immediate	 foleni	 Schlange	 foleni	 1	 3.237340
+103	 PA	 4	 2	 8	 Shallow	 Delayed	 mapendano	 Sympathie	 mapendano	 1	 3.887302
+103	 PA	 4	 3	 1	 Deep	 Delayed	 ushahidi	 Beweis	 ushidini	 0	 6.467361
+103	 PA	 4	 3	 2	 Shallow	 Delayed	 maegesho	 Annäherung	 maegesho	 1	 3.510598
+103	 PA	 4	 3	 3	 Deep	 Delayed	 msongora	 Polizist	 msongora	 1	 3.411769
+103	 PA	 4	 3	 4	 Shallow	 Immediate	 kuvumiliana	 Toleranz	 kuvumiliana	 1	 2.219597
+103	 PA	 4	 3	 5	 Shallow	 Immediate	 foleni	 Schlange	 foleni	 1	 1.841850
+103	 PA	 4	 3	 6	 Deep	 Immediate	 udhanifu	 Vermutung	 	 0	 3.530892
+103	 PA	 4	 3	 7	 Shallow	 Delayed	 mapendano	 Sympathie	 mapendano	 1	 3.209898
+103	 PA	 4	 3	 8	 Deep	 Immediate	 yaliyomo	 Inhalt	 ushahidi	 0	 5.901605
+103	 PA	 4	 4	 1	 Shallow	 Delayed	 mapendano	 Sympathie	 mapendano	 1	 2.252848
+103	 PA	 4	 4	 2	 Shallow	 Immediate	 foleni	 Schlange	 foleni	 1	 1.560095
+103	 PA	 4	 4	 3	 Shallow	 Immediate	 kuvumiliana	 Toleranz	 kuvumiliana	 1	 3.202568
+103	 PA	 4	 4	 4	 Deep	 Immediate	 yaliyomo	 Inhalt	 yaliyomo	 1	 3.189672
+103	 PA	 4	 4	 5	 Deep	 Delayed	 msongora	 Polizist	 msongora	 1	 3.218269
+103	 PA	 4	 4	 6	 Deep	 Immediate	 udhanifu	 Vermutung	 udhanifu	 1	 6.212824
+103	 PA	 4	 4	 7	 Shallow	 Delayed	 maegesho	 Annäherung	 maegesho	 1	 2.503791
+103	 PA	 4	 4	 8	 Deep	 Delayed	 ushahidi	 Beweis	 	 0	 12.785485

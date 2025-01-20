@@ -1,0 +1,33 @@
+id	 activity	 retrievalStrategy	 trial	 encodingStrategy	 retentionInterval	 textItemSw	 textItemDe	 response	 correct	 rt
+104	 PA	 Deep	 1	 Deep	 Immediate	 ugomaji	 Aufstand	 	 0	 33.985870
+104	 PA	 Deep	 2	 Deep	 Immediate	 mtihani	 Prüfung	 mtihani	 1	 4.055215
+104	 PA	 Deep	 3	 Shallow	 Immediate	 kuchelewa	 Verzögerung	 hidini	 0	 23.681959
+104	 PA	 Deep	 4	 Shallow	 Immediate	 kuhatarisha	 Gefährdung	 	 0	 20.291884
+104	 PA	 Deep	 5	 Shallow	 Immediate	 kiwiliwili	 Körper	 mawikilikili	 0	 50.015237
+104	 PA	 Deep	 6	 Deep	 Immediate	 maongozi	 System	 maongozi	 1	 10.289281
+104	 PA	 Deep	 7	 Deep	 Immediate	 banguko	 Lawine	 banguko	 1	 5.870513
+104	 PA	 Deep	 8	 Shallow	 Immediate	 uhasibu	 Abrechnung	 uhagi	 0	 20.633183
+104	 PA	 Deep	 9	 Deep	 Immediate	 mwimbaji	 Sänger	 mwambazi	 0	 29.936118
+104	 PA	 Deep	 10	 Shallow	 Immediate	 kilindo	 Übersicht	 	 0	 8.612452
+104	 PA	 Deep	 11	 Shallow	 Immediate	 utamaduni	 Kultur	 	 0	 12.895298
+104	 PA	 Deep	 12	 Deep	 Immediate	 ubunifu	 Kreativität	 ubilifu	 0	 28.710801
+104	 PA	 Deep	 13	 Deep	 Immediate	 unaweza	 Können	 uangazi	 0	 21.488791
+104	 PA	 Deep	 14	 Shallow	 Immediate	 diwani	 Kanzler	 dwini	 0	 4.110782
+104	 PA	 Deep	 15	 Deep	 Immediate	 mshambulizi	 Angreifer	 mshambizu	 0	 15.891724
+104	 PA	 Deep	 16	 Shallow	 Immediate	 kudhibiti	 Kontrolle	 idhini	 0	 6.902018
+104	 PA	 Shallow	 1	 Shallow	 Immediate	 kuchelewa	 Verzögerung	 kuchelewa	 1	 7.668033
+104	 PA	 Shallow	 2	 Shallow	 Immediate	 diwani	 Kanzler	 mwakilishi	 0	 2.170426
+104	 PA	 Shallow	 3	 Deep	 Immediate	 mwimbaji	 Sänger	 mwimbaji	 1	 6.183619
+104	 PA	 Shallow	 4	 Deep	 Immediate	 mshambulizi	 Angreifer	 usuluhishi	 0	 4.960182
+104	 PA	 Shallow	 5	 Shallow	 Immediate	 utamaduni	 Kultur	 utamaduni	 1	 25.117665
+104	 PA	 Shallow	 6	 Deep	 Immediate	 ugomaji	 Aufstand	 ugomaji	 1	 9.329230
+104	 PA	 Shallow	 7	 Shallow	 Immediate	 kuhatarisha	 Gefährdung	 kuhatarisha	 1	 6.865285
+104	 PA	 Shallow	 8	 Deep	 Immediate	 banguko	 Lawine	 banguko	 1	 2.623470
+104	 PA	 Shallow	 9	 Deep	 Immediate	 ubunifu	 Kreativität	 ubunifu	 1	 5.421059
+104	 PA	 Shallow	 10	 Deep	 Immediate	 maongozi	 System	 maongozi	 1	 3.771835
+104	 PA	 Shallow	 11	 Shallow	 Immediate	 uhasibu	 Abrechnung	 uhasibu	 1	 6.002333
+104	 PA	 Shallow	 12	 Shallow	 Immediate	 kudhibiti	 Kontrolle	 kudhibiti	 1	 18.353902
+104	 PA	 Shallow	 13	 Deep	 Immediate	 unaweza	 Können	 unaweza	 1	 4.765683
+104	 PA	 Shallow	 14	 Shallow	 Immediate	 kiwiliwili	 Körper	 kiwiliwili	 1	 6.286065
+104	 PA	 Shallow	 15	 Shallow	 Immediate	 kilindo	 Übersicht	 utegemezi	 0	 11.532296
+104	 PA	 Shallow	 16	 Deep	 Immediate	 mtihani	 Prüfung	 mtihani	 1	 2.976089
